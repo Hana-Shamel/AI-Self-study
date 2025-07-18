@@ -93,7 +93,9 @@ Generate fake faces with DCGAN.
 
 Fine-tune Stable Diffusion for custom art.
 
-MLOps & Deployment
+_________________________________________________________________________________________
+
+Phase 5: MLOps & Deployment
 Skills: Flask/FastAPI, Docker, AWS/GCP.
 
 Project:
