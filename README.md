@@ -1,7 +1,7 @@
 # AI-Self-study
-Personal self study journey that consists of 5 phases 
+## Personal self study journey that consists of 5 phases 
 
-Phase 1: Foundations
+### Phase 1: Foundations
 Programming & Math Basics
 Skills: Python, NumPy, Pandas, Linear Algebra, Probability, Calculus.
 
@@ -22,7 +22,7 @@ Clean a messy dataset (e.g., Kaggle’s Titanic dataset).
 
 _________________________________________________________________________________________
 
-Phase 2: Core Machine Learning
+### Phase 2: Core Machine Learning
 Supervised Learning
 Skills: Regression, Classification, Scikit-Learn.
 
@@ -48,7 +48,7 @@ Optimize a diabetes prediction model.
 
 _________________________________________________________________________________________
 
-Phase 3: Deep Learning
+### Phase 3: Deep Learning
 Neural Networks (Basics)
 Skills: TensorFlow/PyTorch, MLPs.
 
@@ -76,7 +76,7 @@ Build a chatbot (Seq2Seq/GPT-2).
 
 _________________________________________________________________________________________
 
-Phase 4: Advanced Topics
+### Phase 4: Advanced Topics
 Reinforcement Learning (RL)
 Skills: Q-Learning, Deep Q-Networks (DQN).
 
@@ -95,7 +95,7 @@ Fine-tune Stable Diffusion for custom art.
 
 _________________________________________________________________________________________
 
-Phase 5: MLOps & Deployment
+### Phase 5: MLOps & Deployment
 Skills: Flask/FastAPI, Docker, AWS/GCP.
 
 Project:
